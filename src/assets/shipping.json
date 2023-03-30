@@ -10,5 +10,13 @@
   {
     "type": "Postal",
     "price": 2.99
+  },
+  {
+    "type": "Postal_4-days",
+    "price": 3.99
+  },
+  {
+    "type": "Special",
+    "price": 7.99
   }
 ]
